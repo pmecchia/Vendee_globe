@@ -1,4 +1,4 @@
-Date,Rank,Nat/Sail,Skipper/Crew,Hour FR,Latitude,Longitude,Heading_30min,Speed_30min,VMG_30min,Distance_30min,Heading_lrt,Speed_lrt,VMG_lrt,Distance_lrt,Heading_24h,Speed_24h,VMG_24h,Distance_24h,DTF,DTL
+Date,Rank,Nat/Sail,Skipper/Crew,Hour FR,Latitude,Longitude,Heading_30min (degree),Speed_30min (kts),VMG_30min (kts),Distance_30min (nm),Heading_lrt (degree),Speed_lrt (kts),VMG_lrt (kts),Distance_lrt (nm),Heading_24h (degree),Speed_24h (kts),VMG_24h (kts),Distance_24h (nm),DTF (nm),DTL (nm)
 2020-11-08 14:00:00,1,"
 FRA 18","Louis Burton
 Bureau Vallée 2","15:30 FR
