@@ -12,3 +12,4 @@ Reconciliation of the data with the characteristics of the sailboats extracted f
  - Maps with the routes of one or more sailboats with Basemap
  - Impact of the presence of a foil on the ranking and speed of sailboats.
  - Correlation and linear regression between the classification (rank) and the useful speed (VMG) of the sailboats.
+ - Machine learning algorithm: Support Vector Machine classifier (SVM)
